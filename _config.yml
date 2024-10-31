@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Nigga
+title: Group 39
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Digital Repository Hosting Digtal Objects
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "This digital collection is a curated blend of multimedia, featuring a range of audio and visual materials. It includes an insightful interview alongside six unique songs, providing an immersive auditory experience. Digitized artifacts offer a bridge to the past, while born-digital items highlight contemporary perspectives, together creating a cohesive narrative that spans time and format."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Vintino Steenbok
 
 ##########
 # COLLECTION SETTINGS
